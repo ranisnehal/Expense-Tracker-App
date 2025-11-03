@@ -1,0 +1,13 @@
+body { font-family: Arial, sans-serif; background:#f6f8fb; color:#111; }
+.container { max-width:800px; margin:24px auto; background:#fff; padding:16px; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.06);}
+h1 { margin:0 0 12px 0; font-size:22px; }
+.add-form input { margin-right:8px; padding:8px; }
+.add-form button { padding:8px 12px; }
+.expense-list { list-style:none; padding:0; margin:12px 0; }
+.expense-list li { display:flex; justify-content:space-between; padding:8px 0; border-bottom:1px solid #eee; align-items:center;}
+.right { text-align:right; }
+.amount { font-weight:700; }
+.del { margin-top:6px; background:#ff5252; border:none; color:#fff; padding:6px; border-radius:4px; cursor:pointer;}
+.summary { text-align:right; margin-top:8px; font-size:16px; }
+.title { font-weight:600; }
+.category { color:#666; font-weight:400; font-size:12px; margin-left:6px;}
